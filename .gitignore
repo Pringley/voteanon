@@ -1,3 +1,13 @@
+# Vim
+.*.swp
+.*.swo
+.*.un~
+*~
+Session.vim
+
+# OS X
+.DS_Store
+
 # Logs
 logs
 *.log
